@@ -1,4 +1,4 @@
-!global $imgUrl = "https://raw.githubusercontent.com/brunosouzas/brunosouzas-plantUML/master"
+!global $imgUrl = "https://raw.githubusercontent.com/harishgowdra/PlantUML/master"
 
 ' Colors
 ' ##################################
