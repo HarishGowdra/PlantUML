@@ -1,0 +1,6 @@
+'Database Logo
+!$databaseLogo = $imgUrl + "/dist/customDatabase/database.png"
+
+GeneralEntityColoring(customDatabase)
+!define customDatabase(e_alias, e_label, e_techn) GeneralEntity(e_alias, e_label, e_techn, $databaseLogo, customDatabase)
+!define customDatabase(e_alias, e_label, e_techn, e_descr) GeneralEntity(e_alias, e_label, e_techn, e_descr, $databaseLogo, customDatabase)
